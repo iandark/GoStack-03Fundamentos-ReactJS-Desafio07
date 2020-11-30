@@ -1,5 +1,3 @@
-Link para o desafio:
-
 # Desafio GoFinances Web
 Aplicação em ReactJS junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
 
